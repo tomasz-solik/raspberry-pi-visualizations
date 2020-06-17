@@ -1,2 +1,3 @@
 # Raspberry PI Visualizations
-Create visualizations from your music !
+Create own VFX visualizations from your music !
+
